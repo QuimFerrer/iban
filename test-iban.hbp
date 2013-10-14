@@ -1,0 +1,19 @@
+# Archivo Make
+#
+
+-n -q0 -static
+
+#Includes
+-Ic:\hb30\include
+-Lc:\hb30\lib\win\bcc
+
+#libs
+-lhbmxml
+-lmxml
+
+# con -o Asignas el nombre al .exe 
+-otest-iban.exe
+
+#fuentes
+test-iban.prg   
+
