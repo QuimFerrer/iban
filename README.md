@@ -1,3 +1,3 @@
-SEPA
-Single European Payment Area. Zona única de pagos europea.
-Proyecto en lenguaje Harbour para acceso a archivos de intercambio SEPA
+IBAN
+International Bank Account Number
+Proyecto en lenguaje Harbour para acceso a funciones de verificacion bancaria
