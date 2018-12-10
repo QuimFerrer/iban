@@ -12,8 +12,9 @@
 -lmxml
 
 # con -o Asignas el nombre al .exe 
--otest-iban.exe
+-otest.exe
 
 #fuentes
-test-iban.prg   
+iban.prg
+test.prg   
 
